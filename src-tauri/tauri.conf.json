@@ -27,7 +27,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.tauri.dev",
+      "identifier": "com.rohero.toolbox",
       "icon": [
         "icons/apple-touch-icon.png",
         "icons/android-chrome-192x192.png",
